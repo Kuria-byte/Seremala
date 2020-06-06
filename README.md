@@ -13,10 +13,14 @@ This website is a mock up design.
 - Grid Layout
 - CSS Box model
 - Carousel
+- Font Awesome
+- Google Fonts
 
 
 
 ### References
 - https://getbootstrap.com/
 - https://www.w3schools.com/css/css_boxmodel.asp
+- https://fontawesome.com/
+- https://fonts.google.com/
 
