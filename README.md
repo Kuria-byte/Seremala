@@ -1,5 +1,6 @@
 # Seremala Website
 This website is a mock up design.
+`Hosted @ -https://kuria-byte.github.io/Seremala/'
 
 ## About
 - Seremala is a Swahiili name.`It translates to carepnter.`
