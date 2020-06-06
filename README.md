@@ -17,6 +17,6 @@ This website is a mock up design.
 
 
 ### References
-https://getbootstrap.com/
-https://www.w3schools.com/css/css_boxmodel.asp
+- https://getbootstrap.com/
+- https://www.w3schools.com/css/css_boxmodel.asp
 
