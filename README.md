@@ -24,3 +24,6 @@ This website is a mock up design.
 - https://fontawesome.com/
 - https://fonts.google.com/
 
+### Inspiration ❤
+https://www.fundis.co.ke/
+
